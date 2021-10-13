@@ -1,0 +1,18 @@
+{
+  "hwaccel": "cuvid", 
+  "decoder": "h264_cuvid",
+  "encoder": "h264_nvenc",
+  "device": "0",
+  "CORP_ID": "*******",
+  "CORP_SECRET": "********",
+  "AgentId": "*******",
+  "video_path": "Stock\\Video",
+  "audio_path": "Stock\\Audio",
+  "ffmpeg_path": "ffmpeg.exe",
+  "log_path": "log",
+  "start_hour": 0,
+  "end_hour": 22,
+  "user_id": *******,
+  "yzb_url": "http://www.yizhibo.com/member/personel/user_videos?memberid=",
+  "tt0": 8
+}
